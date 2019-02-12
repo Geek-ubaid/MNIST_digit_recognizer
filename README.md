@@ -1,2 +1,8 @@
 # MNIST_digit_recognizer
-Different layer implementation of neural network for predicting handwritten digit
+Handwritten digit recognition on MNIST dataset
+
+## Description
+Implemented CNN acrhitecture using various optimization techniques
+- Gradient Descent 
+- Mini-batch SGD
+- Stochastic Grdaient Descent
